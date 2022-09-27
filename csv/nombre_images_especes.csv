@@ -1,0 +1,595 @@
+,species,nb_images
+0,Aglaoapis tridentata,8
+1,Amegilla,46
+2,Amegilla albigena,89
+3,Amegilla garrula,89
+4,Amegilla quadrifasciata,224
+5,Ammobates,3
+6,Ammobates punctatus,2
+7,Ammobatoides scriptus,12
+8,Andrena,875
+9,Andrena afrensis,9
+10,Andrena agilissima,154
+11,Andrena albopunctata,74
+12,Andrena angustior,7
+13,Andrena apicata,11
+14,Andrena argentata,1
+15,Andrena asperrima,4
+16,Andrena assimilis,1
+17,Andrena barbilabris,29
+18,Andrena batava,1
+19,Andrena bicolor,146
+20,Andrena bicolorata,25
+21,Andrena bimaculata,11
+22,Andrena binominata,1
+23,Andrena bucephala,1
+24,Andrena carantonica,21
+25,Andrena chrysosceles,41
+26,Andrena cineraria,1686
+27,Andrena clarkella,457
+28,Andrena coitana,1
+29,Andrena colletiformis,13
+30,Andrena combinata,2
+31,Andrena curvungula,2
+32,Andrena denticulata,109
+33,Andrena dorsata,75
+34,Andrena farinosa,2
+35,Andrena ferox,1
+36,Andrena flavipes,408
+37,Andrena florea,230
+38,Andrena florentina,5
+39,Andrena freygessneri,1
+40,Andrena fucata,2
+41,Andrena fulva,2331
+42,Andrena fulvago,4
+43,Andrena fuscipes,36
+44,Andrena fuscosa,5
+45,Andrena gravida,120
+46,Andrena haemorrhoa,1372
+47,Andrena hattorfiana,525
+48,Andrena helvola,8
+49,Andrena hispania,1
+50,Andrena humilis,14
+51,Andrena labialis,21
+52,Andrena labiata,65
+53,Andrena lagopus,51
+54,Andrena lapponica,10
+55,Andrena lathyri,4
+56,Andrena limata,6
+57,Andrena limbata,32
+58,Andrena marginata,27
+59,Andrena minutula,18
+60,Andrena mitis,6
+61,Andrena morio,69
+62,Andrena nigriceps,14
+63,Andrena nigroaenea,240
+64,Andrena nigroolivacea,2
+65,Andrena nigrospina,13
+66,Andrena nitida,342
+67,Andrena nycthemera,128
+68,Andrena ovatula,24
+69,Andrena pandellei,17
+70,Andrena paucisquama,1
+71,Andrena pellucens,4
+72,Andrena pilipes,84
+73,Andrena praecox,41
+74,Andrena propinqua,9
+75,Andrena proxima,17
+76,Andrena ranunculi,6
+77,Andrena rhenana,5
+78,Andrena rogenhoferi,1
+79,Andrena rosae,35
+80,Andrena ruficrus,3
+81,Andrena sardoa,2
+82,Andrena saxonica,6
+83,Andrena schencki,6
+84,Andrena symphyti,3
+85,Andrena synadelpha,18
+86,Andrena thoracica,101
+87,Andrena tibialis,40
+88,Andrena trimmerana,7
+89,Andrena vaga,754
+90,Andrena variabilis,48
+91,Andrena varians,2
+92,Andrena ventralis,147
+93,Andrena vetula,4
+94,Andrena villipes,1
+95,Andrena viridescens,12
+96,Andrena vulpecula,11
+97,Andrena wilkella,18
+98,Anthidiellum,18
+99,Anthidiellum strigatum,157
+100,Anthidium,13
+101,Anthidium cingulatum,6
+102,Anthidium diadema,15
+103,Anthidium florentinum,701
+104,Anthidium loti,53
+105,Anthidium manicatum,1289
+106,Anthidium montanum,3
+107,Anthidium oblongatum,165
+108,Anthidium punctatum,84
+109,Anthidium septemspinosum,164
+110,Anthidium taeniatum,2
+111,Anthophora,71
+112,Anthophora aestivalis,22
+113,Anthophora agama,3
+114,Anthophora atriceps,3
+115,Anthophora atroalba,3
+116,Anthophora balneorum,1
+117,Anthophora bimaculata,153
+118,Anthophora canescens,4
+119,Anthophora crassipes,8
+120,Anthophora crinipes,15
+121,Anthophora dispar,12
+122,Anthophora femorata,13
+123,Anthophora fulvitarsis,4
+124,Anthophora fulvodimidiata,3
+125,Anthophora furcata,116
+126,Anthophora gallica,3
+127,Anthophora leucophaea,1
+128,Anthophora mucida,1
+129,Anthophora nigrovittata,1
+130,Anthophora plumipes,1041
+131,Anthophora plumipes niger,3
+132,Anthophora pubescens,10
+133,Anthophora quadrimaculata,55
+134,Anthophora retusa,30
+135,Anthophora retusa meridionalis,1
+136,Anthophora retusa retusa,5
+137,Anthophora salviae,5
+138,Apis mellifera,49599
+139,Apis mellifera carnica,12
+140,Apis mellifera cecropia,2
+141,Apis mellifera iberiensis,370
+142,Apis mellifera ligustica,9
+143,Apis mellifera mellifera,13
+144,Apis mellifera ruttneri,3
+145,Apis mellifera siciliana,2
+146,Biastes brevicornis,6
+147,Biastes emarginatus,1
+148,Bombus,21494
+149,Bombus alpinus,22
+150,Bombus argillaceus,239
+151,Bombus barbutellus,39
+152,Bombus bohemicus,190
+153,Bombus campestris,360
+154,Bombus confusus,29
+155,Bombus cryptarum,12
+156,Bombus cullumanus,4
+157,Bombus distinguendus,54
+158,Bombus flavidus,2
+159,Bombus gerstaeckeri,8
+160,Bombus hortorum,1015
+161,Bombus humilis,437
+162,Bombus humilis humilis,7
+163,Bombus hypnorum,5204
+164,Bombus inexspectatus,1
+165,Bombus jonellus,91
+166,Bombus laesus mocsaryi,11
+167,Bombus lapidarius,5816
+168,Bombus lapidarius decipiens,19
+169,Bombus lucorum,720
+170,Bombus magnus,8
+171,Bombus mendax,7
+172,Bombus mesomelas,52
+173,Bombus monticola,97
+174,Bombus monticola rondoui,3
+175,Bombus monticola scandinavicus,4
+176,Bombus mucidus,10
+177,Bombus muscorum,117
+178,Bombus norvegicus,6
+179,Bombus pascuorum,12455
+180,Bombus pascuorum dusmeti,2
+181,Bombus pascuorum floralis,17
+182,Bombus pascuorum gotlandicus,2
+183,Bombus pascuorum intermedius,10
+184,Bombus pascuorum melleofacies,1
+185,Bombus pascuorum mniorum,84
+186,Bombus pascuorum moorselensis,35
+187,Bombus pascuorum olympicus,1
+188,Bombus pascuorum pallidofacies,1
+189,Bombus pascuorum siciliensis,1
+190,Bombus pascuorum smithianus,7
+191,Bombus pascuorum sparreanus,5
+192,Bombus perezi,1
+193,Bombus pomorum,9
+194,Bombus pratorum,2920
+195,Bombus pyrenaeus,6
+196,Bombus quadricolor,4
+197,Bombus ruderarius,76
+198,Bombus ruderatus,140
+199,Bombus ruderatus corsicola,2
+200,Bombus rupestris,634
+201,Bombus sichelii,16
+202,Bombus soroeensis,61
+203,Bombus soroeensis proteus,27
+204,Bombus soroeensis soroeensis,13
+205,Bombus subterraneus,85
+206,Bombus sylvarum,677
+207,Bombus sylvestris,69
+208,Bombus terrestris,4633
+209,Bombus terrestris audax,93
+210,Bombus terrestris dalmatinus,26
+211,Bombus terrestris lusitanicus,215
+212,Bombus terrestris sassaricus,24
+213,Bombus terrestris terrestris,1
+214,Bombus terrestris xanthopus,25
+215,Bombus vestalis,483
+216,Bombus veteranus,96
+217,Bombus wurflenii,47
+218,Ceratina,449
+219,Ceratina chalcites,52
+220,Ceratina chalybea,6
+221,Ceratina cucurbitina,487
+222,Ceratina cyanea,37
+223,Ceratina dallatorreana,8
+224,Ceratina parvula,6
+225,Ceylalictus variegatus,44
+226,Chelostoma,32
+227,Chelostoma campanularum,29
+228,Chelostoma emarginatum,6
+229,Chelostoma florisomne,170
+230,Chelostoma grande,2
+231,Chelostoma rapunculi,71
+232,Coelioxys,60
+233,Coelioxys acanthura,22
+234,Coelioxys afra,11
+235,Coelioxys alatus,12
+236,Coelioxys argentea,18
+237,Coelioxys argenteus,5
+238,Coelioxys aurolimbata,10
+239,Coelioxys aurolimbatus,3
+240,Coelioxys brevis,5
+241,Coelioxys caudata,1
+242,Coelioxys conoidea,14
+243,Coelioxys conoideus,10
+244,Coelioxys echinatus,1
+245,Coelioxys elongata,12
+246,Coelioxys elongatus,1
+247,Coelioxys haemorrhoa,1
+248,Coelioxys inermis,5
+249,Coelioxys mandibularis,1
+250,Coelioxys obtusa,1
+251,Coelioxys polycentris,1
+252,Coelioxys quadridentata,6
+253,Colletes,74
+254,Colletes cunicularius,725
+255,Colletes daviesanus,28
+256,Colletes floralis,1
+257,Colletes fodiens,5
+258,Colletes gallicus,12
+259,Colletes halophilus,12
+260,Colletes hederae,1097
+261,Colletes hylaeiformis,14
+262,Colletes marginatus,2
+263,Colletes nigricans,1
+264,Colletes similis,16
+265,Colletes succinctus,18
+266,Dasypoda,141
+267,Dasypoda argentata,30
+268,Dasypoda cingulata,6
+269,Dasypoda crassicornis,1
+270,Dasypoda hirtipes,797
+271,Dasypoda visnaga,33
+272,Dioxys cincta,3
+273,Dioxys cinctus,4
+274,Dufourea alpina,1
+275,Dufourea paradoxa,1
+276,Epeoloides coecutiens,99
+277,Epeolus,92
+278,Epeolus cruciger,15
+279,Epeolus fallax,52
+280,Epeolus julliani,47
+281,Epeolus tarsalis,9
+282,Epeolus variegatus,25
+283,Eucera,88
+284,Eucera chrysopyga,13
+285,Eucera cineraria,3
+286,Eucera clypeata,2
+287,Eucera elongatula,1
+288,Eucera longicornis,59
+289,Eucera nigrescens,46
+290,Eucera nigrifacies,10
+291,Eucera nigrilabris,41
+292,Eucera tricincta,1
+293,Habropoda tarsata,47
+294,Habropoda zonatula,7
+295,Halictus,117
+296,Halictus cochlearitarsis,1
+297,Halictus compressus,7
+298,Halictus crenicornis,1
+299,Halictus fulvipes,7
+300,Halictus langobardicus,5
+301,Halictus maculatus,23
+302,Halictus quadricinctus,55
+303,Halictus rubicundus,184
+304,Halictus scabiosae,1618
+305,Halictus sexcinctus,117
+306,Halictus simplex,2
+307,Heriades,46
+308,Heriades crenulata,19
+309,Heriades truncorum,146
+310,Hoplitis,66
+311,Hoplitis acuticornis,5
+312,Hoplitis adunca,63
+313,Hoplitis benoisti,1
+314,Hoplitis bisulca,24
+315,Hoplitis claviventris,2
+316,Hoplitis cristatula,29
+317,Hoplitis dalmatica,1
+318,Hoplitis leucomelana,46
+319,Hoplitis mocsaryi,7
+320,Hoplitis papaveris,9
+321,Hoplitis perezi,19
+322,Hoplitis ravouxi,1
+323,Hoplitis tridentata,11
+324,Hoplosmia,7
+325,Hylaeus,3410
+326,Hylaeus annularis,2
+327,Hylaeus annulatus,1
+328,Hylaeus brachycephalus,2
+329,Hylaeus brevicornis,9
+330,Hylaeus clypearis,6
+331,Hylaeus communis,74
+332,Hylaeus confusus,13
+333,Hylaeus cornutus,5
+334,Hylaeus difformis,3
+335,Hylaeus dilatatus,18
+336,Hylaeus duckei,1
+337,Hylaeus gibbus,2
+338,Hylaeus gredleri,1
+339,Hylaeus hyalinatus,52
+340,Hylaeus leptocephalus,2
+341,Hylaeus lineolatus,6
+342,Hylaeus meridionalis,8
+343,Hylaeus nigritus,47
+344,Hylaeus pectoralis,7
+345,Hylaeus pictipes,17
+346,Hylaeus pictus,23
+347,Hylaeus punctatus,16
+348,Hylaeus punctulatissimus,2
+349,Hylaeus rinki,4
+350,Hylaeus signatus,32
+351,Hylaeus sinuatus,1
+352,Hylaeus styriacus,3
+353,Hylaeus sulphuripes,8
+354,Hylaeus variegatus,143
+355,Icteranthidium grohmanni,43
+356,Icteranthidium laterale,19
+357,Lasioglossum,302
+358,Lasioglossum albipes,8
+359,Lasioglossum albocinctum,11
+360,Lasioglossum bimaculatum,5
+361,Lasioglossum bluethgeni,1
+362,Lasioglossum buccale,6
+363,Lasioglossum calceatum,55
+364,Lasioglossum calceatus,2
+365,Lasioglossum clypeare,8
+366,Lasioglossum costulatum,5
+367,Lasioglossum cupromicans,1
+368,Lasioglossum discum,5
+369,Lasioglossum discus,2
+370,Lasioglossum fulvicorne,7
+371,Lasioglossum glabriusculum,9
+372,Lasioglossum interruptum,20
+373,Lasioglossum laevigatum,18
+374,Lasioglossum laticeps,11
+375,Lasioglossum leucopus,1
+376,Lasioglossum leucozonium,43
+377,Lasioglossum majus,11
+378,Lasioglossum malachurum,13
+379,Lasioglossum marginatum,7
+380,Lasioglossum minutulum,5
+381,Lasioglossum morio,19
+382,Lasioglossum nigripes,12
+383,Lasioglossum nitidulum,23
+384,Lasioglossum pallens,14
+385,Lasioglossum pauperatum,1
+386,Lasioglossum pauxillum,2
+387,Lasioglossum politum,2
+388,Lasioglossum prasinum,9
+389,Lasioglossum punctatissimum,1
+390,Lasioglossum sexnotatum,52
+391,Lasioglossum sexstrigatum,1
+392,Lasioglossum sphecodimorphum,4
+393,Lasioglossum villosulum,2
+394,Lasioglossum xanthopus,17
+395,Lasioglossum zonulum,19
+396,Lithurgus,8
+397,Lithurgus chrysurus,132
+398,Lithurgus cornutus,14
+399,Macropis,28
+400,Macropis europaea,254
+401,Macropis fulvipes,67
+402,Megachile,1233
+403,Megachile albisecta,65
+404,Megachile albocristata,4
+405,Megachile analis,1
+406,Megachile apicalis,45
+407,Megachile centuncularis,133
+408,Megachile circumcincta,13
+409,Megachile deceptoria,11
+410,Megachile ericetorum,222
+411,Megachile genalis,1
+412,Megachile lagopoda,33
+413,Megachile lapponica,1
+414,Megachile leachella,20
+415,Megachile ligniseca,22
+416,Megachile maritima,40
+417,Megachile melanopyga,11
+418,Megachile nigriventris,16
+419,Megachile octosignata,17
+420,Megachile parietina,85
+421,Megachile pilicrus,4
+422,Megachile pilidens,33
+423,Megachile pyrenaea,11
+424,Megachile pyrenaica,18
+425,Megachile rotundata,34
+426,Megachile schmiedeknechti,8
+427,Megachile sculpturalis,337
+428,Megachile sicula,78
+429,Megachile sicula corsica,1
+430,Megachile versicolor,7
+431,Megachile willughbiella,81
+432,Melecta,119
+433,Melecta albifrons,180
+434,Melecta albifrons nigra,2
+435,Melecta luctuosa,6
+436,Melitta,20
+437,Melitta dimidiata,2
+438,Melitta haemorrhoidalis,96
+439,Melitta leporina,27
+440,Melitta nigricans,92
+441,Melitta tricincta,18
+442,Melitturga caudata,1
+443,Melitturga clavicornis,28
+444,Nomada,176
+445,Nomada agrestis,28
+446,Nomada alboguttata,25
+447,Nomada armata,15
+448,Nomada baccata,4
+449,Nomada basalis,32
+450,Nomada bifasciata,37
+451,Nomada distinguenda,2
+452,Nomada fabriciana,55
+453,Nomada femoralis,13
+454,Nomada ferruginata,11
+455,Nomada flava,46
+456,Nomada flavoguttata,35
+457,Nomada flavopicta,16
+458,Nomada fucata,89
+459,Nomada fulvicornis,26
+460,Nomada fuscicornis,2
+461,Nomada goodeniana,231
+462,Nomada integra,1
+463,Nomada lathburiana,122
+464,Nomada leucophthalma,55
+465,Nomada marshamella,97
+466,Nomada melathoracica,14
+467,Nomada mocsaryi,1
+468,Nomada mutica,1
+469,Nomada nobilis,20
+470,Nomada obtusifrons,2
+471,Nomada panzeri,2
+472,Nomada pectoralis,4
+473,Nomada piccioliana,5
+474,Nomada roberjeotiana,1
+475,Nomada ruficornis,26
+476,Nomada rufipes,21
+477,Nomada sexfasciata,26
+478,Nomada sheppardana,18
+479,Nomada signata,15
+480,Nomada stigma,4
+481,Nomada succincta,74
+482,Nomada zonata,31
+483,Nomiapis,15
+484,Nomiapis diversipes,16
+485,Nomioides,4
+486,Nomioides facilis,19
+487,Nomioides minutissimus,5
+488,Osmia,117
+489,Osmia anceyi,6
+490,Osmia andrenoides,32
+491,Osmia argyropyga,3
+492,Osmia aurulenta,129
+493,Osmia bicolor,274
+494,Osmia bicornis,2582
+495,Osmia bidentata,1
+496,Osmia brevicornis,16
+497,Osmia caerulescens,141
+498,Osmia cephalotes,13
+499,Osmia cornuta,2209
+500,Osmia dimidiata,13
+501,Osmia ferruginea,2
+502,Osmia gallarum,2
+503,Osmia inermis,1
+504,Osmia latreillei,36
+505,Osmia latreillei iberoafricana,1
+506,Osmia leaiana,41
+507,Osmia mustelina,14
+508,Osmia nasoproducta,1
+509,Osmia niveata,18
+510,Osmia rufohirta,26
+511,Osmia scutellaris,5
+512,Osmia signata,3
+513,Osmia spinulosa,88
+514,Osmia submicans,7
+515,Osmia tricornis,29
+516,Osmia versicolor,6
+517,Osmia xanthomelana,1
+518,Panurginus albopilosus,4
+519,Panurgus,117
+520,Panurgus banksianus,25
+521,Panurgus calcaratus,59
+522,Panurgus canescens,1
+523,Panurgus corsicus,2
+524,Panurgus dentipes,21
+525,Pasites maculatus,25
+526,Protosmia,1
+527,Pseudoanthidium,42
+528,Pseudoanthidium melanurum,6
+529,Pseudoanthidium nanum,90
+530,Pseudoanthidium reticulatum,5
+531,Pseudoanthidium scapulare,8
+532,Rhodanthidium,14
+533,Rhodanthidium infuscatum,24
+534,Rhodanthidium septemdentatum,211
+535,Rhodanthidium siculum,12
+536,Rhodanthidium sticticum,162
+537,Rhophitoides canus,1
+538,Rophites algirus,1
+539,Rophites quinquespinosus,3
+540,Seladonia,57
+541,Seladonia kessleri,4
+542,Seladonia seladonia,3
+543,Seladonia subaurata,36
+544,Seladonia subaurata corsa,1
+545,Seladonia submediterranea,7
+546,Seladonia tumulorum,20
+547,Sphecodes,71
+548,Sphecodes albilabris,436
+549,Sphecodes ephippius,6
+550,Sphecodes gibbus,7
+551,Sphecodes monilicornis,12
+552,Sphecodes niger,1
+553,Sphecodes olivieri,9
+554,Sphecodes pellucidus,3
+555,Sphecodes puncticeps,6
+556,Sphecodes ruficrus,4
+557,Stelis,26
+558,Stelis annulata,26
+559,Stelis breviuscula,15
+560,Stelis nasuta,7
+561,Stelis ornatula,24
+562,Stelis phaeoptera,1
+563,Stelis punctulatissima,78
+564,Stelis signata,53
+565,Stelis simillima,5
+566,Systropha curvicornis,17
+567,Systropha planidens,4
+568,Tetralonia malvae,68
+569,Tetraloniella,33
+570,Tetraloniella alticincta,20
+571,Tetraloniella dentata,23
+572,Tetraloniella fulvescens,2
+573,Tetraloniella inulae,1
+574,Tetraloniella nana,14
+575,Tetraloniella salicariae,13
+576,Tetraloniella strigata,12
+577,Thyreus,33
+578,Thyreus histrionicus,2
+579,Thyreus orbatus,7
+580,Thyreus ramosus,41
+581,Trachusa,4
+582,Trachusa byssina,79
+583,Trachusa integra,38
+584,Trachusa interrupta,60
+585,Trachusa laeviventris,1
+586,Triepeolus tristis,13
+587,Vestitohalictus,2
+588,Vestitohalictus pollinosus,19
+589,Xylocopa,1477
+590,Xylocopa cantabrita,76
+591,Xylocopa iris,43
+592,Xylocopa valga,217
+593,Xylocopa violacea,4042
